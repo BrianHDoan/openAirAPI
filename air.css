@@ -1,0 +1,23 @@
+body {
+    background-color: burlywood;
+}
+
+.jumbotron {
+    background: url(./assets/brett-zeck-672527-unsplash.jpg) no-repeat center;
+    background-size: cover;
+    height: 20vh;
+    text-align: center;
+    padding-top: 6%;
+    color: whitesmoke;
+    border: 2px solid brown;
+}
+
+.data {
+    width: 50vw;
+    height: 50vh;
+    margin: auto;
+    text-align: center;
+    padding: 10px 30px;
+    color: white;
+    border: 2px dashed brown;
+}
